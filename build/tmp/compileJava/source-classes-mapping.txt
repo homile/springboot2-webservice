@@ -1,27 +1,29 @@
 com/cho/book/springboot/web/dto/PostsSaveRequestDto.java
  com.cho.book.springboot.web.dto.PostsSaveRequestDto
  com.cho.book.springboot.web.dto.PostsSaveRequestDto$PostsSaveRequestDtoBuilder
-com/cho/book/springboot/domain/posts/PostsRepository.java
- com.cho.book.springboot.domain.posts.PostsRepository
-com/cho/book/springboot/web/IndexController.java
- com.cho.book.springboot.web.IndexController
-com/cho/book/springboot/web/dto/HelloResponseDto.java
- com.cho.book.springboot.web.dto.HelloResponseDto
-com/cho/book/springboot/web/PostsApiController.java
- com.cho.book.springboot.web.PostsApiController
-com/cho/book/springboot/Application.java
- com.cho.book.springboot.Application
+com/cho/book/springboot/web/dto/PostsUpdateRequestDto.java
+ com.cho.book.springboot.web.dto.PostsUpdateRequestDto
+ com.cho.book.springboot.web.dto.PostsUpdateRequestDto$PostsUpdateRequestDtoBuilder
 com/cho/book/springboot/domain/BaseTimeEntity.java
  com.cho.book.springboot.domain.BaseTimeEntity
 com/cho/book/springboot/web/HelloController.java
  com.cho.book.springboot.web.HelloController
+com/cho/book/springboot/web/dto/PostsListResponseDto.java
+ com.cho.book.springboot.web.dto.PostsListResponseDto
+com/cho/book/springboot/web/dto/PostsResponseDto.java
+ com.cho.book.springboot.web.dto.PostsResponseDto
+com/cho/book/springboot/web/dto/HelloResponseDto.java
+ com.cho.book.springboot.web.dto.HelloResponseDto
 com/cho/book/springboot/domain/posts/Posts.java
  com.cho.book.springboot.domain.posts.Posts
  com.cho.book.springboot.domain.posts.Posts$PostsBuilder
-com/cho/book/springboot/web/dto/PostsResponseDto.java
- com.cho.book.springboot.web.dto.PostsResponseDto
+com/cho/book/springboot/Application.java
+ com.cho.book.springboot.Application
+com/cho/book/springboot/domain/posts/PostsRepository.java
+ com.cho.book.springboot.domain.posts.PostsRepository
 com/cho/book/springboot/service/posts/PostsService.java
  com.cho.book.springboot.service.posts.PostsService
-com/cho/book/springboot/web/dto/PostsUpdateRequestDto.java
- com.cho.book.springboot.web.dto.PostsUpdateRequestDto
- com.cho.book.springboot.web.dto.PostsUpdateRequestDto$PostsUpdateRequestDtoBuilder
+com/cho/book/springboot/web/PostsApiController.java
+ com.cho.book.springboot.web.PostsApiController
+com/cho/book/springboot/web/IndexController.java
+ com.cho.book.springboot.web.IndexController
