@@ -21,9 +21,9 @@ com/cho/book/springboot/Application.java
  com.cho.book.springboot.Application
 com/cho/book/springboot/domain/posts/PostsRepository.java
  com.cho.book.springboot.domain.posts.PostsRepository
-com/cho/book/springboot/service/posts/PostsService.java
- com.cho.book.springboot.service.posts.PostsService
 com/cho/book/springboot/web/IndexController.java
  com.cho.book.springboot.web.IndexController
 com/cho/book/springboot/web/PostsApiController.java
  com.cho.book.springboot.web.PostsApiController
+com/cho/book/springboot/service/posts/PostsService.java
+ com.cho.book.springboot.service.posts.PostsService
