@@ -1,12 +1,12 @@
 com/cho/book/springboot/domain/posts/PostsRepositoryTest.java
  com.cho.book.springboot.domain.posts.PostsRepositoryTest
+com/cho/book/springboot/web/IndexControllerTest.java
+ com.cho.book.springboot.web.IndexControllerTest
+com/cho/book/springboot/web/HelloControllerTest.java
+ com.cho.book.springboot.web.HelloControllerTest
+com/cho/book/springboot/web/dto/HelloResponseDtoTest.java
+ com.cho.book.springboot.web.dto.HelloResponseDtoTest
 com/cho/book/springboot/web/PostsApiControllerTest.java
  com.cho.book.springboot.web.PostsApiControllerTest
 com/cho/book/springboot/Application.java
  com.cho.book.springboot.Application
-com/cho/book/springboot/web/dto/HelloResponseDtoTest.java
- com.cho.book.springboot.web.dto.HelloResponseDtoTest
-com/cho/book/springboot/web/HelloControllerTest.java
- com.cho.book.springboot.web.HelloControllerTest
-com/cho/book/springboot/web/IndexControllerTest.java
- com.cho.book.springboot.web.IndexControllerTest

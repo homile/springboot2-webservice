@@ -49,3 +49,5 @@ com/cho/book/springboot/config/auth/CustomOAuth2UserService.java
 com/cho/book/springboot/config/auth/dto/OAuthAttributes.java
  com.cho.book.springboot.config.auth.dto.OAuthAttributes
  com.cho.book.springboot.config.auth.dto.OAuthAttributes$OAuthAttributesBuilder
+com/cho/book/springboot/config/JpaConfig.java
+ com.cho.book.springboot.config.JpaConfig
