@@ -13,11 +13,11 @@ com/cho/book/springboot/web/HelloController.java
  com.cho.book.springboot.web.HelloController
 com/cho/book/springboot/domain/user/Role.java
  com.cho.book.springboot.domain.user.Role
-com/cho/book/springboot/config/auth/CustomOAuth2UserService.java
- com.cho.book.springboot.config.auth.CustomOAuth2UserService
-com/cho/book/springboot/config/auth/dto/OAuthAttributes.java
- com.cho.book.springboot.config.auth.dto.OAuthAttributes
- com.cho.book.springboot.config.auth.dto.OAuthAttributes$OAuthAttributesBuilder
+com/cho/book/springboot/config/auth/SecurityConfig.java
+ com.cho.book.springboot.config.auth.SecurityConfig
+com/cho/book/springboot/web/dto/PostsUpdateRequestDto.java
+ com.cho.book.springboot.web.dto.PostsUpdateRequestDto
+ com.cho.book.springboot.web.dto.PostsUpdateRequestDto$PostsUpdateRequestDtoBuilder
 com/cho/book/springboot/domain/user/User.java
  com.cho.book.springboot.domain.user.User
  com.cho.book.springboot.domain.user.User$UserBuilder
@@ -44,8 +44,8 @@ com/cho/book/springboot/config/auth/LoginUser.java
  com.cho.book.springboot.config.auth.LoginUser
 com/cho/book/springboot/web/dto/PostsResponseDto.java
  com.cho.book.springboot.web.dto.PostsResponseDto
-com/cho/book/springboot/web/dto/PostsUpdateRequestDto.java
- com.cho.book.springboot.web.dto.PostsUpdateRequestDto
- com.cho.book.springboot.web.dto.PostsUpdateRequestDto$PostsUpdateRequestDtoBuilder
-com/cho/book/springboot/config/auth/SecurityConfig.java
- com.cho.book.springboot.config.auth.SecurityConfig
+com/cho/book/springboot/config/auth/CustomOAuth2UserService.java
+ com.cho.book.springboot.config.auth.CustomOAuth2UserService
+com/cho/book/springboot/config/auth/dto/OAuthAttributes.java
+ com.cho.book.springboot.config.auth.dto.OAuthAttributes
+ com.cho.book.springboot.config.auth.dto.OAuthAttributes$OAuthAttributesBuilder
